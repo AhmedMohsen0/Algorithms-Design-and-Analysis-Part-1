@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1438372284 source:d:\coding\training\quicksort\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<stdlib.h>
+
